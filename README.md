@@ -2,11 +2,6 @@
 
 This project analyzes global COVID-19 data, focusing on trends in cases, deaths, and vaccinations. It includes data cleaning, exploratory data analysis (EDA), and visualizations to uncover insights about the pandemic's progression across selected countries.
 
-## 📂 Project Structure
-
-- **`covid-19-analysis.py`**: Main Python script for data analysis and visualization.
-- **`COVID19_Global_Data_Tracker.ipynb`**: Jupyter Notebook version of the analysis with step-by-step explanations.
-- **`README.md`**: Documentation for the project.
 
 ## 📊 Features
 
